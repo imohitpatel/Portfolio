@@ -9,21 +9,7 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-body {
-  margin: 0;
-  padding: 0;
-  background-color: #212331;
-  background-size: cover;
-  overflow: hidden;
-  overflow-x: scroll;
-  overflow-y: scroll;
-}
-canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-size: cover;
-}
+
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection declarations have to be separate.
