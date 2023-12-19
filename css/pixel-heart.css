@@ -1,6 +1,7 @@
   .DrEOp{
     line-height:0;
     display:flex;
+    margin-left:230px;
     gap:32px;
     /*justify-content:center;*/  }/*!sc*/
   .DrEOp svg{
