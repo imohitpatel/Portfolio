@@ -2,7 +2,7 @@
     line-height:0;
     display:flex;
     gap:32px;
-    /*justify-content:center;*/  }/*!sc*/
+    justify-content:center; }/*!sc*/
   .DrEOp svg{
     filter:drop-shadow(1px 1px 10px rgba(236, 66, 55, 0.5)) drop-shadow(-1px -1px 10px rgba(255, 251, 164, 0.5));
     
