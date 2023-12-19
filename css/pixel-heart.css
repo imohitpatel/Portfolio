@@ -1,0 +1,44 @@
+  .DrEOp{
+    line-height:0;
+    display:flex;
+    gap:32px;
+    /*justify-content:center;*/  }/*!sc*/
+  .DrEOp svg{
+    filter:drop-shadow(1px 1px 10px rgba(236, 66, 55, 0.5)) drop-shadow(-1px -1px 10px rgba(255, 251, 164, 0.5));
+    
+  }/*!sc*/
+  .DrEOp svg path{
+    animation:eXXzJQ 2000ms ease-in-out infinite;
+    
+  }/*!sc*/
+  .DrEOp svg:nth-child(1) path{
+    animation-delay:0ms;
+    
+  }/*!sc*/
+  .DrEOp svg:nth-child(2) path{
+    animation-delay:250ms;
+    
+  }/*!sc*/
+  .DrEOp svg:nth-child(3) path{
+    animation-delay:500ms;
+    
+  }/*!sc*/
+    @keyframes eXXzJQ{
+      0%{
+        color:#AD832D;
+        
+      }
+      33%{
+        color:#D2B863;
+        
+      }
+      66%{
+        color:#FFFBA4;
+        
+      }
+      100%{
+        color:#AD832D;
+        
+      }
+      
+    }/*!sc*/
